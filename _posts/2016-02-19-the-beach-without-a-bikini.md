@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-19T22:15:54.491Z'
+datePublished: '2016-02-19T22:23:57.669Z'
 publisher:
   domain: ''
   name: ''
 title: The beach without a bikini
-dateModified: '2016-02-19T22:13:42.805Z'
+dateModified: '2016-02-19T22:20:31.499Z'
 sourcePath: _posts/2016-02-19-the-beach-without-a-bikini.md
 published: true
 inFeed: true
@@ -18,3 +18,4 @@ _type: Article
 
 ---
 # The beach without a bikini
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aad53cf5-5393-4215-91fc-34bd5bf5e393.png)
