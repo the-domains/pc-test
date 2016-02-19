@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PC TEST]]></title>
         <description><![CDATA[PC TEST]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pc-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 20:43:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 20:46:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pc-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e49fb40-74c1-4327-86ab-47f0c0b2315f.png">]]></description>
-            <link>undefinedffaa83f0-6018-42bc-baa8-649464067d22/index.html</link>
+            <link>https://thegrid.ai/pc-test/ffaa83f0-6018-42bc-baa8-649464067d22/index.html</link>
             <guid isPermaLink="false">ffaa83f0-6018-42bc-baa8-649464067d22</guid>
-            <pubDate>Fri, 19 Feb 2016 20:42:55 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 20:46:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
