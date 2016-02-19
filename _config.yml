@@ -1,7 +1,7 @@
 name: PC TEST
 favicon: null
 layout_spectrum: 0.1871933660004288
-typography_spectrum: 0.49433168419636786
+typography_spectrum: 0.44969
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8297241900581867
+    - '#141414'
+    - '#c9c0c3'
+    - '#4c4a4b'
+    - '#8f7c6e'
+    - '#ba6a08'
+  brandStrength: 0.375
   lightness: 0.46363191376440227
-  saturation: 0.015276441583409905
+  saturation: 0.375
   rhythmicContrast: 0.2319620093330741
 purpose: []
