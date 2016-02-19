@@ -2,6 +2,7 @@ name: PC TEST
 favicon: null
 layout_spectrum: 0.90479
 typography_spectrum: 0.44969
+title: Dogs Know Best
 cta:
   domain: null
   bucket: null
