@@ -1,29 +1,41 @@
-name: Chagi-ya
-favicon: null
-layout_spectrum: 0.97003
-typography_spectrum: 0.44969
 title: Dogs Know Best
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.97003
+favicon: null
+name: Chagi-ya
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0
+  lightness: 0.6851064
+  saturation: 0.375
+  rhythmicContrast: 0.25
   brandColors:
     - '#141414'
     - '#c9c0c3'
     - '#4c4a4b'
     - '#8f7c6e'
     - '#ba6a08'
-  brandStrength: 0.25
-  lightness: 0.46363191376440227
-  saturation: 0.375
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.44969
