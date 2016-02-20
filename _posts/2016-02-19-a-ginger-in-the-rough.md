@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T04:47:30.983Z'
-dateModified: '2016-02-20T04:46:36.926Z'
+datePublished: '2016-02-20T05:03:08.791Z'
+dateModified: '2016-02-20T05:03:08.566Z'
 author: []
 title: Ginger in the ruff
 sourcePath: _posts/2016-02-19-a-ginger-in-the-rough.md
