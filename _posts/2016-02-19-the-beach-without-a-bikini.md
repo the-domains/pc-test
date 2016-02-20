@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:cede7c1a-3694-4ffa-8166-2c3a3bcfef61'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-20T04:41:48.511Z'
-dateModified: '2016-02-20T04:40:02.788Z'
+datePublished: '2016-02-20T05:03:14.736Z'
+dateModified: '2016-02-20T04:54:09.735Z'
 author: []
 title: Beach without a bikini
 sourcePath: _posts/2016-02-19-the-beach-without-a-bikini.md
