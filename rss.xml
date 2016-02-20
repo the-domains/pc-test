@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dogs Know Best]]></title>
+        <description><![CDATA[Dogs Know Best]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 04:42:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beach without a bikini]]></title>
+            <description><![CDATA[<article><h1>Beach without a bikini</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/781c54e9859c52905ddbf2b76c6decb75ac08f32.png"></article>]]></description>
+            <link>urn:uuid:cede7c1a-3694-4ffa-8166-2c3a3bcfef61</link>
+            <guid isPermaLink="false">06fe04af-8e93-42c8-9abe-c90da2d37b71</guid>
+            <pubDate>Sat, 20 Feb 2016 04:41:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
