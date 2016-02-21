@@ -4,7 +4,7 @@
         <description><![CDATA[Dog Knows Best]]></description>
         <link>https://thegrid.ai/pc-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 03:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 03:10:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pc-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Listen to my voice]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:95ecac95-fffb-4804-8801-bc638d66cd39</link>
             <guid isPermaLink="false">65d45420-f2b4-4dea-b0d2-5786b7b3e70f</guid>
             <pubDate>Sun, 21 Feb 2016 03:06:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ginger in the ruff]]></title>
+            <description><![CDATA[<article><h1>Ginger in the ruff</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/359eaf4b7877d23591283b4d124547108a98bedf.png"></article>]]></description>
+            <link>urn:uuid:da3cc91a-e4a2-4a05-8d36-c390d8d9d713</link>
+            <guid isPermaLink="false">7fc92375-9b32-4d71-a4ee-9294bb4364cd</guid>
+            <pubDate>Sun, 21 Feb 2016 03:07:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Children of the bed]]></title>
